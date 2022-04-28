@@ -125,7 +125,3 @@
 
 <!--both years, 2000 and 2010, included-->
 
-
-- **`sort`**: /_You should copy/paste the sort in here_/
-- **`skip`**: /_You should copy/paste the skip in here_/
-- **`limit`**: /_You should copy/paste the limit in here_/
